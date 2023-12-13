@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/sign-client",
+  "name": "@walletconnect-ir/sign-client",
   "description": "Sign Client for WalletConnect Protocol",
   "version": "2.10.6",
   "author": "WalletConnect, Inc. <walletconnect.com>",

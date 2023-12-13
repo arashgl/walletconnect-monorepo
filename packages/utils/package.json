@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/utils",
+  "name": "@walletconnect-ir/utils",
   "description": "Utilities for WalletConnect Protocol",
   "version": "2.10.6",
   "author": "WalletConnect, Inc. <walletconnect.com>",

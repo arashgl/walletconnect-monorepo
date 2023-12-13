@@ -1,7 +1,7 @@
 import { expect, describe, it, vi, beforeEach, afterEach } from "vitest";
 import { calcExpiry, isExpired, formatRelayRpcUrl, hasOverlap, formatUA } from "../src";
 
-const RELAY_URL = "wss://relay.walletconnect.com";
+const RELAY_URL = "wss://relay.metanetint.xyz";
 
 const PROJECT_ID = "27e484dcd9e3efcfd25a83a78777cdf1";
 

@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/types",
+  "name": "@walletconnect-ir/types",
   "description": "Typings for WalletConnect Protocol",
   "version": "2.10.6",
   "author": "WalletConnect, Inc. <walletconnect.com>",

@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/web3wallet",
+  "name": "@walletconnect-ir/web3wallet",
   "description": "Web3Wallet for WalletConnect Protocol",
   "private": true,
   "version": "1.9.5",

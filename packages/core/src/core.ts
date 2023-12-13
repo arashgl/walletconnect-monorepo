@@ -1,14 +1,14 @@
 import { EventEmitter } from "events";
 
-import KeyValueStorage from "@walletconnect/keyvaluestorage";
-import { HeartBeat } from "@walletconnect/heartbeat";
+import KeyValueStorage from "@walletconnect-ir/keyvaluestorage";
+import { HeartBeat } from "@walletconnect-ir/heartbeat";
 import {
   generateChildLogger,
   getDefaultLoggerOptions,
   getLoggerContext,
   pino,
 } from "@walletconnect/logger";
-import { CoreTypes, ICore } from "@walletconnect/types";
+import { CoreTypes, ICore } from "@walletconnect-ir/types";
 
 import { Crypto, Relayer, Pairing, JsonRpcHistory, Expirer, Verify } from "./controllers";
 import {
