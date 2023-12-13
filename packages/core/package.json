@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect-ir/core",
+  "name": "walletconnect-core-ir",
   "description": "Core for WalletConnect Protocol",
   "version": "2.10.6",
   "author": "WalletConnect, Inc. <walletconnect.com>",

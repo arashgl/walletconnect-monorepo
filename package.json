@@ -1,7 +1,7 @@
 {
   "name": "walletconnect-monorepo-ir",
   "description": "",
-  "private": true,
+  "private": false,
   "keywords": [
     "wallet",
     "walletconnect",
