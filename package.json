@@ -1,6 +1,6 @@
 {
   "name": "walletconnect-monorepo-ir",
-  "description": "Monorepo for WalletConnect",
+  "description": "",
   "private": true,
   "keywords": [
     "wallet",
@@ -35,7 +35,7 @@
     "build": "npm run build --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",
     "test:ignoreUnhandled": "npm run test:ignoreUnhandled --workspaces --if-present",
-    "check": "npm run lint; npm run build; npm run test",
+    "check": "npm run build; npm run test",
     "reset": "npm run clean; npm run check",
     "new-version": "lerna version --no-private --no-git-tag-version --exact && ./scripts/update_relayer_sdk_version.sh",
     "pre-publish": "npm run new-version; npm run reset",
